@@ -1,0 +1,7 @@
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Round_73\M03_CS\Class12\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb
